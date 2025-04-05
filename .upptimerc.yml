@@ -5,17 +5,17 @@ repo: upptime-monitor # The name of this repository
 sites:
   - name: redrockwebdesign
     url: https://www.redrockwebdesign.com
-  - name: Priority 1 Communications
+  - name: priority1communications
     url: https://www.priority1communications.com
-  - name: The School Solution
+  - name: theschoolsolution
     url: https://theschoolsolution.com
-  - name: Nielson Zoltan
+  - name: nielsonzoltan
     url: https://nielsonzoltan.com
-  - name: Vibrant Cans
+  - name: vibrantcans
     url: https://vibrantcans.com
-  - name: The Pool Medic
+  - name: thepoolmedic
     url: https://thepoolmedic.org
-  - name: The Grateful Dog LA
+  - name: thegratefuldogla
     url: https://thegratefuldogla.com
 
 status-website:
