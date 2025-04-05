@@ -3,19 +3,19 @@ owner: Red Rock Web Design # Your GitHub organization or username, where this re
 repo: upptime-monitor # The name of this repository
 
 sites:
-  - name: redrockwebdesign
+  - name: red-rock-web-design
     url: https://www.redrockwebdesign.com
-  - name: priority1communications
+  - name: priority-1-communications
     url: https://www.priority1communications.com
-  - name: theschoolsolution
+  - name: the-school-solution
     url: https://theschoolsolution.com
-  - name: nielsonzoltan
+  - name: nielson-zoltan
     url: https://nielsonzoltan.com
-  - name: vibrantcans
+  - name: vibrant-cans
     url: https://vibrantcans.com
-  - name: thepoolmedic
+  - name: the-pool-medic
     url: https://thepoolmedic.org
-  - name: thegratefuldogla
+  - name: the-grateful-dog-la
     url: https://thegratefuldogla.com
 
 status-website:
