@@ -6,7 +6,17 @@ sites:
   - name: redrockwebdesign
     url: https://www.redrockwebdesign.com
   - name: Priority 1 Communications
-    url: https://priority1communications.com
+    url: https://www.priority1communications.com
+  - name: The School Solution
+    url: https://theschoolsolution.com
+  - name: Nielson Zoltan
+    url: https://nielsonzoltan.com
+  - name: Vibrant Cans
+    url: https://vibrantcans.com
+  - name: The Pool Medic
+    url: https://thepoolmedic.org
+  - name: The Grateful Dog LA
+    url: https://thegratefuldogla.com
 
 status-website:
   baseUrl: /Red-Rock-Web-Design
