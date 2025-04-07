@@ -58,7 +58,7 @@
     "url": "https://nielsonzoltan.com",
     "icon": "https://icons.duckduckgo.com/ip3/nielsonzoltan.com.ico",
     "slug": "nielson-zoltan",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 152,
     "timeMonth": 152,
     "timeYear": 152,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-07": 0
+    }
   },
   {
     "name": "vibrant-cans",
