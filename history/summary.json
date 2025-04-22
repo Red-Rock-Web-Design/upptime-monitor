@@ -58,7 +58,7 @@
     "url": "https://nielsonzoltan.com",
     "icon": "https://icons.duckduckgo.com/ip3/nielsonzoltan.com.ico",
     "slug": "nielson-zoltan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.90%",
@@ -70,6 +70,7 @@
     "timeMonth": 200,
     "timeYear": 200,
     "dailyMinutesDown": {
+      "2025-04-22": 0,
       "2025-04-16": 10,
       "2025-04-13": 8,
       "2025-04-07": 9
