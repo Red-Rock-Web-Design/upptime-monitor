@@ -4,9 +4,9 @@
     "url": "https://www.redrockwebdesign.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.redrockwebdesign.com.ico",
     "slug": "red-rock-web-design",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 310,
     "timeMonth": 404,
     "timeYear": 383,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   },
   {
     "name": "priority-1-communications",
     "url": "https://www.priority1communications.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.priority1communications.com.ico",
     "slug": "priority-1-communications",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 324,
     "timeMonth": 374,
     "timeYear": 338,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   },
   {
     "name": "the-school-solution",
     "url": "https://theschoolsolution.com",
     "icon": "https://icons.duckduckgo.com/ip3/theschoolsolution.com.ico",
     "slug": "the-school-solution",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +55,18 @@
     "timeWeek": 256,
     "timeMonth": 233,
     "timeYear": 219,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   },
   {
     "name": "nielson-zoltan",
     "url": "https://nielsonzoltan.com",
     "icon": "https://icons.duckduckgo.com/ip3/nielsonzoltan.com.ico",
     "slug": "nielson-zoltan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.71%",
@@ -70,6 +76,7 @@
     "timeMonth": 243,
     "timeYear": 230,
     "dailyMinutesDown": {
+      "2025-05-07": 0,
       "2025-05-01": 9,
       "2025-04-29": 9,
       "2025-04-28": 60,
@@ -85,9 +92,9 @@
     "url": "https://vibrantcans.com",
     "icon": "https://icons.duckduckgo.com/ip3/vibrantcans.com.ico",
     "slug": "vibrant-cans",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -96,7 +103,9 @@
     "timeWeek": 198,
     "timeMonth": 226,
     "timeYear": 218,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   },
   {
     "name": "the-pool-medic",
