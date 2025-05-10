@@ -10,11 +10,11 @@
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 384,
-    "timeDay": 232,
-    "timeWeek": 359,
-    "timeMonth": 406,
-    "timeYear": 384,
+    "time": 389,
+    "timeDay": 584,
+    "timeWeek": 409,
+    "timeMonth": 419,
+    "timeYear": 389,
     "dailyMinutesDown": {
       "2025-05-07": 9
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 341,
-    "timeDay": 254,
-    "timeWeek": 366,
-    "timeMonth": 379,
-    "timeYear": 341,
+    "time": 339,
+    "timeDay": 218,
+    "timeWeek": 367,
+    "timeMonth": 383,
+    "timeYear": 339,
     "dailyMinutesDown": {
       "2025-05-07": 9
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 216,
-    "timeDay": 135,
-    "timeWeek": 228,
-    "timeMonth": 232,
-    "timeYear": 216,
+    "time": 218,
+    "timeDay": 270,
+    "timeWeek": 239,
+    "timeMonth": 238,
+    "timeYear": 218,
     "dailyMinutesDown": {
       "2025-05-07": 9
     }
@@ -65,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nielsonzoltan.com.ico",
     "slug": "nielson-zoltan",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "99.71%",
-    "time": 230,
-    "timeDay": 148,
-    "timeWeek": 235,
-    "timeMonth": 235,
-    "timeYear": 230,
+    "uptimeYear": "99.72%",
+    "time": 233,
+    "timeDay": 366,
+    "timeWeek": 267,
+    "timeMonth": 234,
+    "timeYear": 233,
     "dailyMinutesDown": {
       "2025-05-07": 9,
       "2025-05-01": 9,
@@ -99,9 +99,9 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 217,
-    "timeDay": 103,
-    "timeWeek": 201,
-    "timeMonth": 225,
+    "timeDay": 206,
+    "timeWeek": 195,
+    "timeMonth": 227,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2025-05-07": 9
@@ -118,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 295,
-    "timeDay": 271,
-    "timeWeek": 281,
-    "timeMonth": 307,
-    "timeYear": 295,
+    "time": 293,
+    "timeDay": 224,
+    "timeWeek": 268,
+    "timeMonth": 308,
+    "timeYear": 293,
     "dailyMinutesDown": {}
   },
   {
@@ -136,11 +136,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 242,
-    "timeDay": 95,
-    "timeWeek": 200,
-    "timeMonth": 261,
-    "timeYear": 242,
+    "time": 238,
+    "timeDay": 96,
+    "timeWeek": 195,
+    "timeMonth": 260,
+    "timeYear": 238,
     "dailyMinutesDown": {}
   }
 ]
